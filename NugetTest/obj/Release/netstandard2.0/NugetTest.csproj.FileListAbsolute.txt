@@ -2,3 +2,8 @@ C:\Users\Alenano360\source\NugetPackages\NugetTest\obj\Release\netstandard2.0\Nu
 C:\Users\Alenano360\source\NugetPackages\NugetTest\obj\Release\netstandard2.0\NugetTest.AssemblyInfoInputs.cache
 C:\Users\Alenano360\source\NugetPackages\NugetTest\obj\Release\netstandard2.0\NugetTest.AssemblyInfo.cs
 C:\Users\Alenano360\source\NugetPackages\NugetTest\obj\Release\netstandard2.0\NugetTest.csproj.CoreCompileInputs.cache
+C:\Users\Alenano360\source\NugetPackages\NugetTest\bin\Release\netstandard2.0\NugetTest.deps.json
+C:\Users\Alenano360\source\NugetPackages\NugetTest\bin\Release\netstandard2.0\NugetTest.dll
+C:\Users\Alenano360\source\NugetPackages\NugetTest\bin\Release\netstandard2.0\NugetTest.pdb
+C:\Users\Alenano360\source\NugetPackages\NugetTest\obj\Release\netstandard2.0\NugetTest.dll
+C:\Users\Alenano360\source\NugetPackages\NugetTest\obj\Release\netstandard2.0\NugetTest.pdb
