@@ -1,0 +1,17 @@
+C:\Users\raiz\source\repos\NugetTest\NugetTest\bin\Debug\netstandard2.0\NugetTest.deps.json
+C:\Users\raiz\source\repos\NugetTest\NugetTest\bin\Debug\netstandard2.0\NugetTest.dll
+C:\Users\raiz\source\repos\NugetTest\NugetTest\bin\Debug\netstandard2.0\NugetTest.pdb
+C:\Users\raiz\source\repos\NugetTest\NugetTest\obj\Debug\netstandard2.0\NugetTest.csprojAssemblyReference.cache
+C:\Users\raiz\source\repos\NugetTest\NugetTest\obj\Debug\netstandard2.0\NugetTest.AssemblyInfoInputs.cache
+C:\Users\raiz\source\repos\NugetTest\NugetTest\obj\Debug\netstandard2.0\NugetTest.AssemblyInfo.cs
+C:\Users\raiz\source\repos\NugetTest\NugetTest\obj\Debug\netstandard2.0\NugetTest.dll
+C:\Users\raiz\source\repos\NugetTest\NugetTest\obj\Debug\netstandard2.0\NugetTest.pdb
+C:\Users\Alenano360\Source\Repos\NuGetTest\NugetTest\bin\Debug\netstandard2.0\NugetTest.deps.json
+C:\Users\Alenano360\Source\Repos\NuGetTest\NugetTest\bin\Debug\netstandard2.0\NugetTest.dll
+C:\Users\Alenano360\Source\Repos\NuGetTest\NugetTest\bin\Debug\netstandard2.0\NugetTest.pdb
+C:\Users\Alenano360\Source\Repos\NuGetTest\NugetTest\obj\Debug\netstandard2.0\NugetTest.csprojAssemblyReference.cache
+C:\Users\Alenano360\Source\Repos\NuGetTest\NugetTest\obj\Debug\netstandard2.0\NugetTest.AssemblyInfoInputs.cache
+C:\Users\Alenano360\Source\Repos\NuGetTest\NugetTest\obj\Debug\netstandard2.0\NugetTest.AssemblyInfo.cs
+C:\Users\Alenano360\Source\Repos\NuGetTest\NugetTest\obj\Debug\netstandard2.0\NugetTest.dll
+C:\Users\Alenano360\Source\Repos\NuGetTest\NugetTest\obj\Debug\netstandard2.0\NugetTest.pdb
+C:\Users\Alenano360\Source\Repos\NuGetTest\NugetTest\obj\Debug\netstandard2.0\NugetTest.csproj.CoreCompileInputs.cache
