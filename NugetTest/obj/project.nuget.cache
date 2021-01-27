@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "VolhSWLova0z7hXI31utfJwhCqlbr88fCQ1wUCEN3L8neoBuWngHyV10yW5SjdZxwG9PTQuuicJljaF8TiQvYQ==",
+  "dgSpecHash": "UsyJL9bCk3Bk0w+YZ7n73YyqCLGt10K9oMtf4+JgGEjyHFRL4UFcv4fh9SS4KGYJoVLMhFcGM8sG5hB572Ei0w==",
   "success": true,
   "projectFilePath": "C:\\Users\\Alenano360\\source\\NugetPackages\\NugetTest\\NugetTest.csproj",
   "expectedPackageFiles": [
@@ -13,6 +13,7 @@
     "C:\\Users\\Alenano360\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.0\\microsoft.extensions.primitives.5.0.0.nupkg.sha512",
     "C:\\Users\\Alenano360\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\Alenano360\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\Alenano360\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
     "C:\\Users\\Alenano360\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
     "C:\\Users\\Alenano360\\.nuget\\packages\\system.diagnostics.diagnosticsource\\5.0.0\\system.diagnostics.diagnosticsource.5.0.0.nupkg.sha512",
     "C:\\Users\\Alenano360\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
