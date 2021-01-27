@@ -1,7 +1,7 @@
 {
   "version": 2,
-  "dgSpecHash": "N9W35E4BLHxF22GYZPRzA/AiLb+mTIU+MMl20P2kQ85G3UYTKr71pv/qZsJzvaObb36Heu6wrdaJjCSqREtGbg==",
-  "success": false,
+  "dgSpecHash": "VolhSWLova0z7hXI31utfJwhCqlbr88fCQ1wUCEN3L8neoBuWngHyV10yW5SjdZxwG9PTQuuicJljaF8TiQvYQ==",
+  "success": true,
   "projectFilePath": "C:\\Users\\Alenano360\\source\\NugetPackages\\NugetTest\\NugetTest.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Alenano360\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\5.0.0\\microsoft.bcl.asyncinterfaces.5.0.0.nupkg.sha512",
@@ -20,15 +20,5 @@
     "C:\\Users\\Alenano360\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\5.0.0\\system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512",
     "C:\\Users\\Alenano360\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512"
   ],
-  "logs": [
-    {
-      "code": "NU1108",
-      "level": "Error",
-      "message": "Cycle detected. \r\n  Newtonsoft.Json -> Newtonsoft.Json (>= 12.0.3).",
-      "libraryId": "Newtonsoft.Json",
-      "targetGraphs": [
-        ".NETStandard,Version=v2.0"
-      ]
-    }
-  ]
+  "logs": []
 }
