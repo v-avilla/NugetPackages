@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Alenano360\\Source\\Repos\\NuGetTest\\NugetTest\\NugetTest.csproj": {}
+    "C:\\Users\\Alenano360\\source\\NugetPackages\\NugetTest\\NugetTest.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Alenano360\\Source\\Repos\\NuGetTest\\NugetTest\\NugetTest.csproj": {
+    "C:\\Users\\Alenano360\\source\\NugetPackages\\NugetTest\\NugetTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Alenano360\\Source\\Repos\\NuGetTest\\NugetTest\\NugetTest.csproj",
-        "projectName": "NugetTest",
-        "projectPath": "C:\\Users\\Alenano360\\Source\\Repos\\NuGetTest\\NugetTest\\NugetTest.csproj",
+        "projectUniqueName": "C:\\Users\\Alenano360\\source\\NugetPackages\\NugetTest\\NugetTest.csproj",
+        "projectName": "Newtonsoft.Json",
+        "projectPath": "C:\\Users\\Alenano360\\source\\NugetPackages\\NugetTest\\NugetTest.csproj",
         "packagesPath": "C:\\Users\\Alenano360\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Alenano360\\Source\\Repos\\NuGetTest\\NugetTest\\obj\\",
+        "outputPath": "C:\\Users\\Alenano360\\source\\NugetPackages\\NugetTest\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\Alenano360\\Source\\Repos\\NuGetTest\\NuGet.Config",
+          "C:\\Users\\Alenano360\\source\\NugetPackages\\NuGet.Config",
           "C:\\Users\\Alenano360\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
@@ -26,10 +26,7 @@
           "netstandard2.0"
         ],
         "sources": {
-          "https://pkgs.dev.azure.com/v-avilla01/NuGetTest/_packaging/NuGetPakage/nuget/v3/index.json": {},
-          "https://pkgs.dev.azure.com/v-avilla01/testNuget/_packaging/ConsoleNuGet/nuget/v3/index.json": {},
-          "https://pkgs.dev.azure.com/v-avilla01/testNuget/_packaging/ConsoleNugetTest/nuget/v3/index.json": {},
-          "https://pkgs.dev.azure.com/v-avilla01/testNuget/_packaging/test/nuget/v3/index.json": {}
+          "https://nuget.pkg.github.com/v-avilla/index.json": {}
         },
         "frameworks": {
           "netstandard2.0": {

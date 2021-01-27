@@ -113,15 +113,6 @@
           "build/netstandard2.0/NETStandard.Library.targets": {}
         }
       },
-      "Newtonsoft.Json/12.0.3": {
-        "type": "package",
-        "compile": {
-          "lib/netstandard2.0/Newtonsoft.Json.dll": {}
-        },
-        "runtime": {
-          "lib/netstandard2.0/Newtonsoft.Json.dll": {}
-        }
-      },
       "System.Buffers/4.5.1": {
         "type": "package",
         "compile": {
@@ -487,37 +478,6 @@
         "netstandard.library.nuspec"
       ]
     },
-    "Newtonsoft.Json/12.0.3": {
-      "sha512": "6mgjfnRB4jKMlzHSl+VD+oUc1IebOZabkbyWj2RiTgWwYPPuaK1H97G1sHqGwPlS5npiF5Q0OrxN1wni2n5QWg==",
-      "type": "package",
-      "path": "newtonsoft.json/12.0.3",
-      "files": [
-        ".nupkg.metadata",
-        ".signature.p7s",
-        "LICENSE.md",
-        "lib/net20/Newtonsoft.Json.dll",
-        "lib/net20/Newtonsoft.Json.xml",
-        "lib/net35/Newtonsoft.Json.dll",
-        "lib/net35/Newtonsoft.Json.xml",
-        "lib/net40/Newtonsoft.Json.dll",
-        "lib/net40/Newtonsoft.Json.xml",
-        "lib/net45/Newtonsoft.Json.dll",
-        "lib/net45/Newtonsoft.Json.xml",
-        "lib/netstandard1.0/Newtonsoft.Json.dll",
-        "lib/netstandard1.0/Newtonsoft.Json.xml",
-        "lib/netstandard1.3/Newtonsoft.Json.dll",
-        "lib/netstandard1.3/Newtonsoft.Json.xml",
-        "lib/netstandard2.0/Newtonsoft.Json.dll",
-        "lib/netstandard2.0/Newtonsoft.Json.xml",
-        "lib/portable-net40+sl5+win8+wp8+wpa81/Newtonsoft.Json.dll",
-        "lib/portable-net40+sl5+win8+wp8+wpa81/Newtonsoft.Json.xml",
-        "lib/portable-net45+win8+wp8+wpa81/Newtonsoft.Json.dll",
-        "lib/portable-net45+win8+wp8+wpa81/Newtonsoft.Json.xml",
-        "newtonsoft.json.12.0.3.nupkg.sha512",
-        "newtonsoft.json.nuspec",
-        "packageIcon.png"
-      ]
-    },
     "System.Buffers/4.5.1": {
       "sha512": "Rw7ijyl1qqRS0YQD/WycNst8hUUMgrMH4FCn1nNm27M4VxchZ1js3fVjQaANHO5f3sN4isvP4a+Met9Y4YomAg==",
       "type": "package",
@@ -727,17 +687,17 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Alenano360\\Source\\Repos\\NuGetTest\\NugetTest\\NugetTest.csproj",
-      "projectName": "NugetTest",
-      "projectPath": "C:\\Users\\Alenano360\\Source\\Repos\\NuGetTest\\NugetTest\\NugetTest.csproj",
+      "projectUniqueName": "C:\\Users\\Alenano360\\source\\NugetPackages\\NugetTest\\NugetTest.csproj",
+      "projectName": "Newtonsoft.Json",
+      "projectPath": "C:\\Users\\Alenano360\\source\\NugetPackages\\NugetTest\\NugetTest.csproj",
       "packagesPath": "C:\\Users\\Alenano360\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Alenano360\\Source\\Repos\\NuGetTest\\NugetTest\\obj\\",
+      "outputPath": "C:\\Users\\Alenano360\\source\\NugetPackages\\NugetTest\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
       ],
       "configFilePaths": [
-        "C:\\Users\\Alenano360\\Source\\Repos\\NuGetTest\\NuGet.Config",
+        "C:\\Users\\Alenano360\\source\\NugetPackages\\NuGet.Config",
         "C:\\Users\\Alenano360\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
@@ -746,10 +706,7 @@
         "netstandard2.0"
       ],
       "sources": {
-        "https://pkgs.dev.azure.com/v-avilla01/NuGetTest/_packaging/NuGetPakage/nuget/v3/index.json": {},
-        "https://pkgs.dev.azure.com/v-avilla01/testNuget/_packaging/ConsoleNuGet/nuget/v3/index.json": {},
-        "https://pkgs.dev.azure.com/v-avilla01/testNuget/_packaging/ConsoleNugetTest/nuget/v3/index.json": {},
-        "https://pkgs.dev.azure.com/v-avilla01/testNuget/_packaging/test/nuget/v3/index.json": {}
+        "https://nuget.pkg.github.com/v-avilla/index.json": {}
       },
       "frameworks": {
         "netstandard2.0": {
@@ -793,5 +750,16 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "NU1108",
+      "level": "Error",
+      "message": "Cycle detected. \r\n  Newtonsoft.Json -> Newtonsoft.Json (>= 12.0.3).",
+      "libraryId": "Newtonsoft.Json",
+      "targetGraphs": [
+        ".NETStandard,Version=v2.0"
+      ]
+    }
+  ]
 }
