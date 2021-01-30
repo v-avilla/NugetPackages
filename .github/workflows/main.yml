@@ -36,12 +36,7 @@ jobs:
           nuget-api-key: edf5f4910c6e099b045f60124758c17468e76bc8
           # Source to scope the NuGet API Key to.
           nuget-api-key-source: https://nuget.pkg.github.com/v-avilla/index.json
-      
-      - name: Publish NuGet
-        # You may pin to the exact commit or the version.
-        # uses: brandedoutcast/publish-nuget@c12b8546b67672ee38ac87bea491ac94a587f7cc
-        uses: brandedoutcast/publish-nuget@v2.5.5
-        with:
-          NUGET_KEY: edf5f4910c6e099b045f60124758c17468e76bc8
-          # NuGet server uri hosting the packages, defaults to https://api.nuget.org
-          NUGET_SOURCE: https://nuget.pkg.github.com/v-avilla/index.json
+      - name: NuGet push
+        run: |
+          dotnet nuget add source https://nuget.pkg.github.com/${{ github.repository_owner }}/index.json --name github --username ${{ github.repository_owner }} --password ${{ github.token }} --store-password-in-clear-text
+          dotnet nuget push **/*.nupkg --source github
