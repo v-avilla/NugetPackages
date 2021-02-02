@@ -6,6 +6,7 @@
     <authors>NugetTest</authors>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>Package Description</description>
+    <repository url="https://github.com/v-avilla/NugetPackages" />
     <dependencies>
       <group targetFramework=".NETStandard2.0">
         <dependency id="Microsoft.Extensions.Logging" version="5.0.0" exclude="Build,Analyzers" />
