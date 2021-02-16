@@ -6,7 +6,7 @@
     <authors>v-avilla</authors>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>This package adds an Octocat!</description>
-    <repository url="https://github.com/v-avilla/NugetPackages" />
+    <repository url="https://nuget.pkg.github.com/v-avilla/index.json" />
     <dependencies>
       <group targetFramework=".NETStandard2.0">
         <dependency id="Microsoft.Extensions.Logging" version="5.0.0" exclude="Build,Analyzers" />

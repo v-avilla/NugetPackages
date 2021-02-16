@@ -27,7 +27,7 @@
         ],
         "sources": {
           "https://api.nuget.org/v3/index.json": {},
-          "https://nuget.pkg.github.com/v-avilla/NugetPackages/index.json": {}
+          "https://nuget.pkg.github.com/v-avilla/index.json": {}
         },
         "frameworks": {
           "netstandard2.0": {

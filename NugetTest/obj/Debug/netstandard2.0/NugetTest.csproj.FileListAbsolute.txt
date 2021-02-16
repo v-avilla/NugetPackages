@@ -23,3 +23,4 @@ C:\Users\Alenano360\source\NugetPackages\NugetTest\obj\Debug\netstandard2.0\Nuge
 C:\Users\Alenano360\source\NugetPackages\NugetTest\obj\Debug\netstandard2.0\NugetTest.csproj.CoreCompileInputs.cache
 C:\Users\Alenano360\source\NugetPackages\NugetTest\obj\Debug\netstandard2.0\NugetTest.dll
 C:\Users\Alenano360\source\NugetPackages\NugetTest\obj\Debug\netstandard2.0\NugetTest.pdb
+C:\Users\Alenano360\source\NugetPackages\NugetTest\obj\Debug\netstandard2.0\NugetTest.csprojAssemblyReference.cache

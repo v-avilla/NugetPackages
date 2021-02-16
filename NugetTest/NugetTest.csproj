@@ -8,7 +8,8 @@
     <Authors>v-avilla</Authors>
     <Company>GitHub</Company>
     <PackageDescription>This package adds an Octocat!</PackageDescription>
-    <RepositoryUrl>https://github.com/v-avilla/NugetPackages</RepositoryUrl>
+    <RepositoryUrl>https://nuget.pkg.github.com/v-avilla/index.json</RepositoryUrl>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
   </PropertyGroup>
 
   <ItemGroup>
